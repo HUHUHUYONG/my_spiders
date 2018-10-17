@@ -1,0 +1,2 @@
+2018-09-12 16:33:34 [scrapy.utils.log] INFO: Scrapy 1.5.1 started (bot: qiubai_proj)
+2018-09-12 16:33:34 [scrapy.utils.log] INFO: Versions: lxml 4.2.4.0, libxml2 2.9.8, cssselect 1.0.3, parsel 1.5.0, w3lib 1.19.0, Twisted 18.7.0, Python 3.6.4 (v3.6.4:d48ecebad5, Dec 18 2017, 21:07:28) - [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)], pyOpenSSL 18.0.0 (OpenSSL 1.1.0i  14 Aug 2018), cryptography 2.3.1, Platform Darwin-17.7.0-x86_64-i386-64bit
